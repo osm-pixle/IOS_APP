@@ -1,6 +1,6 @@
 # ANIME D'or
 
-![App Logo](logo/IOS_APP_LOGO.png)
+![App Logo](logo/ios_app_logo.png)
 
 Welcome to ANIME D'or, an iOS application that lets you explore and enjoy a curated collection of your favorite anime shows and episodes.
 
